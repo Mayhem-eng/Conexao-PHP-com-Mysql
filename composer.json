@@ -1,0 +1,18 @@
+{
+    "name": "feh/conexaophp",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "Model/",
+            "Persistence\\": "Persistence/",
+            "DTOS\\": "DTOS/",
+            "Users\\ConexaoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayhem-eng",
+            "email": "feeduardogaviao@gmail.com"
+        }
+    ],
+    "require": {}
+}
